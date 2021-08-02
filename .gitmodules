@@ -1,0 +1,3 @@
+[submodule "Hospital"]
+	path = Hospital
+	url = git@github.com:pulavartivinay/Hospital.git
